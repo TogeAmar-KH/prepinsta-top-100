@@ -29,27 +29,3 @@
 
 <img width="900" height="251" alt="Screenshot from 2025-08-28 18-59-31" src="https://github.com/user-attachments/assets/665c236d-31d2-4aba-a946-be147760ab51" />
 
-```
-import java.util.Scanner;
-lass code{
-
-        public static void main(String args[]){
-
-                Scanner s = new Scanner(System.in);
-
-                System.out.println("give Starting range");
-                double n = s.nextInt();
-                System.out.println("give ending range");
-                double n2 = s.nextInt();
-
-
-                double end=(n2*((n2+1)/2));
-                double start=((n*((n+1)/2))-n);
-
-                System.out.print(start+end);
-                System.out.println("sum of first "+n+" numbers is "+(end - start));
-
-        }
-
-}
-```
