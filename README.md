@@ -29,3 +29,16 @@
 
 <img width="900" height="251" alt="Screenshot from 2025-08-28 18-59-31" src="https://github.com/user-attachments/assets/665c236d-31d2-4aba-a946-be147760ab51" />
 
+### 6.Find Greatest of Two Numbers
+
+<img width="1026" height="749" alt="Screenshot from 2025-08-29 09-14-10" src="https://github.com/user-attachments/assets/69ed78d0-816f-41fd-bd6b-8232644a57d6" />
+
+<img width="797" height="270" alt="Screenshot from 2025-08-29 09-13-50" src="https://github.com/user-attachments/assets/b0160b16-edc6-47c2-a4a3-f2327e8bbed9" />
+
+### 7.Find the Greatest Number Among Three Numbers
+
+<img width="1026" height="749" alt="Screenshot from 2025-08-29 09-39-29" src="https://github.com/user-attachments/assets/1cfb2e17-e002-47e6-8ed2-c7d3ee4cd68d" />
+
+<img width="797" height="148" alt="Screenshot from 2025-08-29 09-39-56" src="https://github.com/user-attachments/assets/25e6f81c-aca9-4520-b02e-659f43082b9a" />
+
+## 8.Leap Year or not
